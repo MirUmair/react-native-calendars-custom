@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendars-custom",
+  "name": "@umairabbasi/react-native-calendars-custom",
   "version": "1.0.0",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
